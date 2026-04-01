@@ -35,4 +35,4 @@ This project was created using the following technologies:
 
 If you have any questions or suggestions, feel free to get in touch.
 
-**FAKHAR PATHAN**
+*Umair Naeem*
